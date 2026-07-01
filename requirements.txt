@@ -3,3 +3,8 @@ langchain-community
 langchain-openai
 langchain_huggingface
 python-dotenv
+
+
+langchain-google-genai
+pydantic
+email-validator
