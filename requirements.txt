@@ -4,7 +4,7 @@ langchain-openai
 langchain_huggingface
 python-dotenv
 
-
+langchain_groq
 langchain-google-genai
 pydantic
 email-validator
